@@ -1,4 +1,3 @@
-package gui_programs;
 import java.util.Random;
 
 public class Wordsearch 
