@@ -1,4 +1,3 @@
-package gui_programs;
 import java.awt.Color;
 
 public class ColorsList
