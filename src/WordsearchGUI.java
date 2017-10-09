@@ -1,9 +1,3 @@
-package gui_programs;
-
-//Karamel Quitayen
-//G Period Java
-//Extra Credit: Wordsearch
-//=====================================
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Font;
